@@ -32,6 +32,7 @@ const styles = StyleSheet.create({
   },
   closeButton: {
     fontSize: 35,
+    alignSelf: 'flex-end',
     color: 'white',
     lineHeight: 40,
     width: 40,
